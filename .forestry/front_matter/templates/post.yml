@@ -46,3 +46,5 @@ fields:
   default: post
   config:
     required: true
+pages:
+- _posts/my-first-blog.md
