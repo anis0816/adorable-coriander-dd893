@@ -6,7 +6,7 @@ palette: yellow
 header:
   type: header
   template: header
-  title: Fjord
+  title: Anis
   tagline: Minimal and clean blog theme
   logo_img: images/logo.svg
   logo_img_alt: Fjord Logo
